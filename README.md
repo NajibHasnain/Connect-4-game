@@ -1,2 +1,1 @@
-# co
-Created with CodeSandbox
+# App based on logic of "Connect 4" game.
